@@ -1,0 +1,46 @@
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: fill;
+}
+
+hr {
+    border: 1px solid darkslateblue;
+}
+
+span {
+    display: flex;
+    margin-bottom: 8px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkturquoise;
+    font-size: xx-large;
+}
+
+h1 {
+    color: darkslateblue;
+    padding-left: 8px;
+}
+
+h2 {
+    color: gray;
+    padding-left: 14px;
+}
+
+span {
+    padding-left: 22px;
+}
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 1px solid gray;
+    padding: 10px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
