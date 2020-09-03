@@ -37,6 +37,33 @@ span {
     padding-left: 22px;
 }
 
+fieldset {
+    max-width: 100%;
+}
+textarea {
+    margin-left: 22px;
+    width: 94%;
+    margin-bottom: 8px;
+}
+input[type="email"],
+select {
+    width: 50%;
+    margin-left: 22px;
+}
+button {
+    border-radius: 15%;
+    background-color: darkcyan;
+    color: white;
+    margin-left: 22px;
+    font-weight: bold;
+    width: 75px;
+    height: 50;
+}
+button:hover {
+    color: black;
+    background-color: cornsilk;
+}
+
 body {
     margin-left: 20%;
     margin-right: 20%;
